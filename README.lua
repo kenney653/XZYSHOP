@@ -49,7 +49,7 @@ local functionCategories = {
         ["[+] ล็อคหัว"] = "https://gist.githubusercontent.com/Aimboter477387/582af6aec49782899d5d375ab239039e/raw"
     },
     ["⚡ | การเคลื่อนที่"] = {
-        ["[+] บิน V1"] = "https://pastebin.com/PRmEBc49",
+        ["[+] บิน V1"] = "https://pastebin.com/raw/PRmEBc49",
         ["[+] วาป"] = "https://pastebin.com/raw/K5FYvtvN",
         ["[+] ทะลุกำแพง"] = "https://pastebin.com/raw/7Qab6kg9",
         ["[+] วิ่งเร็ว 4 เท่า"] = "https://pastebin.com/raw/pZhkm5mD"
