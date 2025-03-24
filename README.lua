@@ -6,7 +6,7 @@ local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:WaitForChild("PlayerGui")
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "XZYSHOPUI"
+ScreenGui.Name = "XZYHUBPRO"
 ScreenGui.Parent = PlayerGui
 ScreenGui.ResetOnSpawn = false
 
@@ -30,7 +30,7 @@ TitleLabel.Parent = MainFrame
 TitleLabel.BackgroundTransparency = 1
 TitleLabel.Size = UDim2.new(1, 0, 0, 50)
 TitleLabel.Font = Enum.Font.GothamBold
-TitleLabel.Text = " XZYSHOP "
+TitleLabel.Text = " XZYHUBPRO "
 TitleLabel.TextSize = 22
 TitleLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
 TitleLabel.TextStrokeTransparency = 0.3
@@ -45,7 +45,7 @@ FunctionButtonsFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
 
 local functionCategories = {
     ["⚔️ | การโจมตี"] = {
-        ["[+] XZYSHOP"] = "https://pastebin.com/WMdUCfHG",
+        ["[+] XZYSHOP"] = "https://pastebin.com/raw/WMdUCfHG",
         ["[+] ล็อคหัว"] = "https://gist.githubusercontent.com/Aimboter477387/582af6aec49782899d5d375ab239039e/raw"
     },
     ["⚡ | การเคลื่อนที่"] = {
