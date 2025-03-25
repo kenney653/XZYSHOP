@@ -51,8 +51,6 @@ local functionCategories = {
     ["⚡ | การเคลื่อนที่"] = {
         ["[+] บิน V1"] = "https://pastebin.com/raw/PRmEBc49",
         ["[+] วาป"] = "https://pastebin.com/raw/K5FYvtvN",
-        ["[+] ทะลุกำแพง"] = "https://pastebin.com/raw/7Qab6kg9",
-        ["[+] วิ่งเร็ว 4 เท่า"] = "https://pastebin.com/raw/pZhkm5mD"
     },
     [" |  ESP & การมองเห็น"] = {
         ["[+] ESP Players"] = "https://pastebin.com/raw/ZkLhNuDL",
