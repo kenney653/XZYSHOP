@@ -45,7 +45,7 @@ FunctionButtonsFrame.CanvasSize = UDim2.new(0, 0, 0, 0)
 
 local functionCategories = {
     ["⚔️ | การโจมตี"] = {
-        ["[+] XZYSHOP"] = "https://pastebin.com/raw/WMdUCfHG",
+        ["[+] XZYSHOP"] = "https://pastebin.com/raw/kfAmDe8d",
         ["[+] ล็อคหัว"] = "https://gist.githubusercontent.com/Aimboter477387/582af6aec49782899d5d375ab239039e/raw"
     },
     ["⚡ | การเคลื่อนที่"] = {
